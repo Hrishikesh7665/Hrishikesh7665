@@ -69,3 +69,6 @@ I'm Currently in CEH 😊.
 <a href="hrishikesh.pgh.patra@gmail.com">
   <img align="left" alt="Hrishikesh's Email" width="25px" src="https://img.icons8.com/windows/48/000000/gmail.png" />
 </a>
+<a href="https://www.hackerrank.com/Hrishikesh7665">
+  <img align="left" alt="Hrishikesh's HackerRank" width="25px" src="https://img.icons8.com/windows/32/000000/hackerrank.png" />
+</a>
