@@ -38,20 +38,12 @@ I'm Currently in CEH 😊.
 <code><img height="30" src="https://img.icons8.com/fluent/48/000000/github.png"/></code>
 
 ### Interests
-👍 AI / ML
-
-👍 Software Development
-
-👍 Game Development
-
-👍 Data Analysis
-
-👍 Web Development
-
-👍 Android Development
-
-👍 Ethical Hacking
-
+👍 AI / ML  
+👍 Software Development  
+👍 Game Development  
+👍 Data Analysis  
+👍 Web Development  
+👍 Android Development  
 👍 Mysterious Things in Technology
 
 
