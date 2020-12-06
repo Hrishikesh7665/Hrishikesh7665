@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 ## Hey, I'm Hrishikesh Patra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I'm Currently in CEH 😊.
+
 💻 Worked on many different technologies.
+
 📜 Created many useful Python Scripts for Students like File Downloader and Handler, Deep Search, Automation Scripts, etc. But I Upload It Letter. 😆
 
 <img alt="GIF" src="https://github.com/roshan9419/roshan9419/blob/master/hadder.gif?raw=true" width="500"/>
