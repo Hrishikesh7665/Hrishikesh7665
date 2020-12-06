@@ -45,12 +45,12 @@ I'm Currently in CEH 😊.
 👍 Mysterious Things in Technology
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshan9419&theme=merko)](https://github.com/roshan9419)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrishikesh7665&theme=merko)](https://github.com/roshan9419)
 
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=roshan9419&show_icons=true&theme=gotham" alt="roshan9419" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hrishikesh7665&show_icons=true&theme=gotham" alt="Hrishikesh7665" />
 
 </details>
 
