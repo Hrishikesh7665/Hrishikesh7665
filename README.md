@@ -39,12 +39,19 @@ I'm Currently in CEH 😊.
 
 ### Interests
 👍 AI / ML
+
 👍 Software Development
+
 👍 Game Development
+
 👍 Data Analysis
+
 👍 Web Development
+
 👍 Android Development
+
 👍 Ethical Hacking
+
 👍 Mysterious Things in Technology
 
 
