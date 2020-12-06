@@ -57,8 +57,8 @@ I'm Currently in CEH 😊.
 </details>
 
 ### Connect With Me
-<a href="https://www.linkedin.com/in/roshan-kumar-a18b76179/">
-  <img align="left" alt="Roshan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/hrishikesh-patra-1aa9341b3/">
+  <img align="left" alt="Hrishikesh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/rishi_kesh/">
   <img align="left" alt="Hrishikesh's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
