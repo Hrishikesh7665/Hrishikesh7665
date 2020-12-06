@@ -60,6 +60,9 @@ I'm Currently in CEH 😊.
 <a href="https://www.linkedin.com/in/hrishikesh-patra-1aa9341b3/">
   <img align="left" alt="Hrishikesh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://www.facebook.com/Isjtijlfti.patra">
+  <img align="left" alt="Hrishikesh's Facebook" width="25px" src="https://img.icons8.com/android/24/000000/facebook-new.png" />
+</a>
 <a href="https://t.me/rishi_kesh/">
   <img align="left" alt="Hrishikesh's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
