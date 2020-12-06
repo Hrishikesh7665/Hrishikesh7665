@@ -46,8 +46,7 @@ I'm Currently in CEH 😊.
 👍 Mysterious Things in Technology
 
 
-Code.gif
- [![](Code.gif)](https://github.com/Hrishikesh7665)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrishikesh7665&theme=merko)](https://github.com/Hrishikesh7665)
 
 
 <details>
