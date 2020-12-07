@@ -35,7 +35,7 @@ I'm Currently in CEH 😊.
 <code><img height="30" src="https://img.icons8.com/color/48/000000/javascript.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/oracle-logo.png"/></code>
 <code><img height="30" src="https://img.icons8.com/fluent/48/000000/github.png"/></code>
-<code><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fandroid-developers.googleblog.com%2F2020%2F02%2Fandroid-studio-36.html&psig=AOvVaw0mvaa1WfMAzBJSahVNJQ_e&ust=1607406591431000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCX1KiWu-0CFQAAAAAdAAAAABAD"/></code>
+<code><img height="30" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"/></code>
 
 
 ### Interests
