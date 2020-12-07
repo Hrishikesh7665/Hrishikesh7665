@@ -41,7 +41,7 @@ I'm Currently in CEH 😊.
 
 ### Interests
 👍 AI / ML  
-👍 Ethical Hacking 
+👍 Ethical Hacking     
 👍 Software Development  
 👍 Game Development  
 👍 Data Analysis  
