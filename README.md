@@ -36,6 +36,7 @@ I'm Currently in CEH 😊.
 <code><img height="30" src="https://img.icons8.com/color/48/000000/oracle-logo.png"/></code>
 <code><img height="30" src="https://img.icons8.com/fluent/48/000000/github.png"/></code>
 <code><img height="30" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"/></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></code>
 
 
 ### Interests
