@@ -43,11 +43,10 @@ I'm Currently in CEH 😊.
 👍 Ethical Hacking     
 👍 Software Development  
 👍 Game Development  
-<!-- 👍 Data Analysis
-👍 Web Development -->
 👍 Android Development  
 👍 Mysterious Things in Technology
-
+<!-- 👍 Data Analysis
+👍 Web Development -->
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrishikesh7665&theme=merko)](https://github.com/Hrishikesh7665)
 
