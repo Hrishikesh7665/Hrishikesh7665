@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- 👍 AI / ML -->
+<!-- 👍 Data Analysis
+👍 Web Development -->
+<!-- <code><img height="30" src="https://img.icons8.com/color/48/000000/html-5.png"/></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/css3.png"/></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/javascript.png"/></code> -->
 
 
 ## Hey, I'm Hrishikesh Patra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -34,19 +40,16 @@ I'm Currently in CEH 😊.
 <code><img height="30" src="https://img.icons8.com/fluent/48/000000/github.png"/></code>
 <code><img height="30" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></code>
-<!-- <code><img height="30" src="https://img.icons8.com/color/48/000000/html-5.png"/></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/css3.png"/></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/javascript.png"/></code> -->
+
 
 ### Interests
-<!-- 👍 AI / ML -->
+
 👍 Ethical Hacking     
 👍 Software Development  
 👍 Game Development  
 👍 Android Development  
 👍 Mysterious Things in Technology
-<!-- 👍 Data Analysis
-👍 Web Development -->
+
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrishikesh7665&theme=merko)](https://github.com/Hrishikesh7665)
 
