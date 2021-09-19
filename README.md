@@ -30,6 +30,12 @@ I'm Currently in CEH 😊.
 
 <img alt="GIF" src="https://github.com/Hrishikesh7665/Hrishikesh7665/blob/main/Code.gif" width="500"/>
 
+
+### TryHackMe
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/HrishikeshPatra.png" alt="TryHackMe">
+
+
 ### Languages and Tools
 
 <code><img height="30" src="https://img.icons8.com/color/48/000000/python.png"/></code>
