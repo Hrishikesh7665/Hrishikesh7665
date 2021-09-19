@@ -64,17 +64,20 @@ I'm Currently in CEH 😊.
 
 ### Connect With Me
 <a href="https://www.linkedin.com/in/hrishikesh-patra-1aa9341b3/">
-  <img align="left" alt="Hrishikesh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Hrishikesh's LinkdeIN" width="36.5px" src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png" />
 </a>
 <a href="https://www.facebook.com/Isjtijlfti.patra">
-  <img align="left" alt="Hrishikesh's Facebook" width="25px" src="https://img.icons8.com/android/24/000000/facebook-new.png" />
+  <img align="left" alt="Hrishikesh's Facebook" width="36.5px" src="https://img.icons8.com/color/48/000000/facebook-new.png" />
 </a>
 <a href="https://t.me/rishi_kesh/">
-  <img align="left" alt="Hrishikesh's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Hrishikesh's Telegram" width="36.5px" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" />
 </a>
 <a href="hrishikesh.pgh.patra@gmail.com">
-  <img align="left" alt="Hrishikesh's Email" width="25px" src="https://img.icons8.com/windows/48/000000/gmail.png" />
+  <img align="left" alt="Hrishikesh's Email" width="36.5px" src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png" />
 </a>
 <a href="https://www.hackerrank.com/Hrishikesh7665">
-  <img align="left" alt="Hrishikesh's HackerRank" width="25px" src="https://img.icons8.com/windows/32/000000/hackerrank.png" />
+  <img align="left" alt="Hrishikesh's HackerRank" width="38.5px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" />
+</a>
+<a href="https://tryhackme.com/p/HrishikeshPatra">
+  <img align="left" alt="Hrishikesh's THM" width="35.5px" src="https://tryhackme.com/img/logo/thm_logo_circle.png" />
 </a>
