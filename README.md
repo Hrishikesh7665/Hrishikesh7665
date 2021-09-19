@@ -33,7 +33,7 @@ I'm Currently in CEH 😊.
 
 ### TryHackMe
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/HrishikeshPatra.png" alt="TryHackMe">
+<img alt="TryHackMe" src="https://tryhackme-badges.s3.amazonaws.com/HrishikeshPatra.png"/>
 
 
 ### Languages and Tools
