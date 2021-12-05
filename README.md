@@ -33,7 +33,44 @@ I'm Currently in CEH 😊.
 
 ### Achievements
 
+<a href="https://www.hackerrank.com/Hrishikesh7665">
+  <img align="left" alt="Hrishikesh's PYTHON Badge" width="140px" src="https://github.com/Hrishikesh7665/My_Achievements_Staff/blob/main/PythonGold.png" />
+</a>
 
+<a href="https://www.hackerrank.com/Hrishikesh7665">
+  <img align="left" alt="Hrishikesh's JAVA Badge" width="135.41px" src="https://github.com/Hrishikesh7665/My_Achievements_Staff/blob/main/JavaGold.png" />
+</a>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+### Certificates
+
+<a href="https://github.com/Hrishikesh7665/My_Achievements_Staff/raw/main/Damncon2021CTFCertificate.pdf">
+  <img alt="Damcon2021 CTF" width="220px" src="https://github.com/Hrishikesh7665/My_Achievements_Staff/blob/main/Damncon2021CTFCertificate.png" />
+</a>
+
+<a href="https://github.com/Hrishikesh7665/My_Achievements_Staff/raw/main/ISOEH_GroundZero2021.pdf">
+  <img alt="ISOEH GroundZero2021 CTF" width="220px" src="https://github.com/Hrishikesh7665/My_Achievements_Staff/blob/main/ISOEH_GroundZero2021.jpg" />
+</a>
+
+<a href="https://github.com/Hrishikesh7665/My_Achievements_Staff/raw/main/Solo%20Learn%20Java_certificate.jpg">
+  <img alt="Solo Learn Java" width="222.9px" src="https://github.com/Hrishikesh7665/My_Achievements_Staff/blob/main/Solo%20Learn%20Java_certificate.jpg" />
+</a>
+
+<a href="https://github.com/Hrishikesh7665/My_Achievements_Staff/raw/main/Solo%20Learn%20Python_certificate.jpg">
+  <img alt="Solo Learn Python" width="222.9px" src="https://github.com/Hrishikesh7665/My_Achievements_Staff/blob/main/Solo%20Learn%20Python_certificate.jpg" />
+</a>
+
+<a href="https://github.com/Hrishikesh7665/My_Achievements_Staff/raw/main/Solo%20Learn%20HTML_certificate.jpg">
+  <img alt="Solo Learn HTML" width="222.9px" src="https://github.com/Hrishikesh7665/My_Achievements_Staff/blob/main/Solo%20Learn%20HTML_certificate.jpg" />
+</a>
+
+<br/>
 
 ### Languages and Tools
 
