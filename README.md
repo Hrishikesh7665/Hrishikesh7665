@@ -1,4 +1,5 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there <a href="https://github.com/Hrishikesh7665"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+<!-- ![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)-->
 
 <!--
 **Hrishikesh7665/Hrishikesh7665** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,18 +20,19 @@ Here are some ideas to get you started:
 👍 Web Development -->
 <!-- <code><img height="30" src="https://img.icons8.com/color/48/000000/css3.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/javascript.png"/></code> -->
+## Hey, I'm Hrishikesh Patra <a href="https://github.com/Hrishikesh7665"> <img src="https://www.fg-a.com/flags/animated-india-flag-2b.gif" width="40px"> </a>
 
+- I'm Currently in **Cyber Security** 😊. <br/>
+- 🤞 Preparing to crack **CEH**. <br/>
+- 💻 Worked on many different technologies.
+- 🔭 My hobbies are doing **Bug Bounty**, **Solving CTF Challenges**, **Learning new things and finding fun facts about technology’s**.
+- 👯 I’m looking for members for our **CTF** team....
+- 📜 Created many useful Python Scripts for Students like File Downloader and Handler, Deep Search, Automation Scripts, etc. But I Upload It Letter, after clearing my **CEH** 😆.    
 
-## Hey, I'm Hrishikesh Patra <img src="https://www.fg-a.com/flags/animated-india-flag-2b.gif" width="40px">
-
-I'm Currently in **Cyber Security** 😊. <br/>
-🤞 Preparing to crack **CEH**. <br/>
-💻 Worked on many different technologies.    
-📜 Created many useful Python Scripts for Students like File Downloader and Handler, Deep Search, Automation Scripts, etc. But I Upload It Letter, after clearing my **CEH** 😆    
-
+<a href="https://github.com/Hrishikesh7665">
 <img alt="GIF" src="https://github.com/Hrishikesh7665/Hrishikesh7665/blob/main/Code.gif" width="500"/>
+</a>
 
-- 🔭 I’m currently working on **Bug bounty**
 
 ### Achievements
 
@@ -75,15 +77,16 @@ I'm Currently in **Cyber Security** 😊. <br/>
 
 ### Languages and Tools
 
-<code><img height="30" src="https://img.icons8.com/color/48/000000/python.png"/></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/c-programming.png"/></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/kotlin.png"/></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/oracle-logo.png"/></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/html-5.png"/></code>
-<code><img height="30" src="https://img.icons8.com/fluent/48/000000/github.png"/></code>
-<code><img height="30" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"/></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></code>
+
+<code><a href="https://github.com/Hrishikesh7665"><img height="30" src="https://img.icons8.com/color/48/000000/python.png"/></a></code>
+<code><a href="https://github.com/Hrishikesh7665"><img height="30" src="https://img.icons8.com/color/48/000000/c-programming.png"/></a></code>
+<code><a href="https://github.com/Hrishikesh7665"><img height="30" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></a></code>
+<code><a href="https://github.com/Hrishikesh7665"><img height="30" src="https://img.icons8.com/color/48/000000/kotlin.png"/></a></code>
+<code><a href="https://github.com/Hrishikesh7665"><img height="30" src="https://img.icons8.com/color/48/000000/oracle-logo.png"/></a></code>
+<code><a href="https://github.com/Hrishikesh7665"><img height="30" src="https://img.icons8.com/color/48/000000/html-5.png"/></a></code>
+<code><a href="https://github.com/Hrishikesh7665"><img height="30" src="https://img.icons8.com/fluent/48/000000/github.png"/></a></code>
+<code><a href="https://github.com/Hrishikesh7665"><img height="30" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"/></a></code>
+<code><a href="https://github.com/Hrishikesh7665"><img height="30" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a></code>
 
 
 ### Interests
@@ -101,9 +104,9 @@ I'm Currently in **Cyber Security** 😊. <br/>
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hrishikesh7665&show_icons=true&theme=gotham" alt="Hrishikesh7665" />
-
+<p align="center"> <a href="https://github.com/Hrishikesh7665"><img src="https://github-readme-stats.vercel.app/api?username=Hrishikesh7665&show_icons=true&theme=gotham" alt="Hrishikesh7665" /></a>
 </details>
+
 
 ### Connect With Me
 <a href="https://www.linkedin.com/in/hrishikesh-patra-1aa9341b3/">
@@ -115,7 +118,7 @@ I'm Currently in **Cyber Security** 😊. <br/>
 <a href="https://t.me/rishi_kesh/">
   <img align="left" alt="Hrishikesh's Telegram" width="36.5px" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" />
 </a>
-<a href="hrishikesh.pgh.patra@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hrishikesh.pgh.patra@gmail">
   <img align="left" alt="Hrishikesh's Email" width="36.5px" src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png" />
 </a>
 <a href="https://www.hackerrank.com/Hrishikesh7665">
@@ -124,3 +127,11 @@ I'm Currently in **Cyber Security** 😊. <br/>
 <a href="https://tryhackme.com/p/HrishikeshPatra">
   <img align="left" alt="Hrishikesh's THM" width="35.5px" src="https://tryhackme.com/img/logo/thm_logo_circle.png" />
 </a>
+
+<p>&nbsp</p>
+</br>
+<a href="https://github.com/Hrishikesh7665">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hrishikesh7665&label=PROFILE+VIEW+COUNTER&style=flat&color=6495ED" alt="Hrishikesh7665" /> 
+</a>
+  
+🙏 _**• Jai Hind •**_ 🙏
