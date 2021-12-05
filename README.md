@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **Hrishikesh7665/Hrishikesh7665** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,14 +21,16 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://img.icons8.com/color/48/000000/javascript.png"/></code> -->
 
 
-## Hey, I'm Hrishikesh Patra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey, I'm Hrishikesh Patra <img src="https://www.fg-a.com/flags/animated-india-flag-2b.gif" width="40px">
 
-I'm Currently in CEH 😊.    
+I'm Currently in **Cyber Security** 😊. <br/>
+🤞 Preparing to crack **CEH**. <br/>
 💻 Worked on many different technologies.    
-📜 Created many useful Python Scripts for Students like File Downloader and Handler, Deep Search, Automation Scripts, etc. But I Upload It Letter. 😆    
+📜 Created many useful Python Scripts for Students like File Downloader and Handler, Deep Search, Automation Scripts, etc. But I Upload It Letter, after clearing my **CEH** 😆    
 
 <img alt="GIF" src="https://github.com/Hrishikesh7665/Hrishikesh7665/blob/main/Code.gif" width="500"/>
 
+- 🔭 I’m currently working on **Bug bounty**
 
 ### Achievements
 
