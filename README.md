@@ -1,5 +1,4 @@
 ### Hi there <a href="https://github.com/Hrishikesh7665"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-<!-- ![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)-->
 
 <!--
 **Hrishikesh7665/Hrishikesh7665** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,10 +21,11 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://img.icons8.com/color/48/000000/javascript.png"/></code> -->
 ## Hey, I'm Hrishikesh Patra <a href="https://github.com/Hrishikesh7665"> <img src="https://www.fg-a.com/flags/animated-india-flag-2b.gif" width="40px"> </a>
 
-- I'm Currently in **Cyber Security** 😊. <br/>
+- I'm currently in **Cyber Security** 😊. <br/>
 - 🤞 Preparing to crack **CEH**. <br/>
 - 💻 Worked on many different technologies.
 - 🔭 My hobbies are doing **Bug Bounty**, **Solving CTF Challenges**, **Learning new things and finding fun facts about technology’s**.
+- 💼 Freelancer python developer.
 - 👯 I’m looking for members for our **CTF** team....
 - 📜 Created many useful Python Scripts for Students like File Downloader and Handler, Deep Search, Automation Scripts, etc. But I Upload It Letter, after clearing my **CEH** 😆.    
 
@@ -91,7 +91,8 @@ Here are some ideas to get you started:
 
 ### Interests
 
-👍 Ethical Hacking     
+👍 Ethical Hacking 
+👍 AI / ML
 👍 Software Development  
 👍 Game Development  
 👍 Android Development  
@@ -131,7 +132,7 @@ Here are some ideas to get you started:
 <p>&nbsp</p>
 </br>
 <a href="https://github.com/Hrishikesh7665">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hrishikesh7665&label=PROFILE+VIEW+COUNTER&style=flat&color=6495ED" alt="Hrishikesh7665" /> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hrishikesh7665&label=PROFILE+VISITOR+COUNTER&style=flat&color=6495ED" alt="Hrishikesh7665" /> 
 </a>
   
 🙏 _**• Jai Hind •**_ 🙏
