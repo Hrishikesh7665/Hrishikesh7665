@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 
 - I'm currently in **Cyber Security** 😊. <br/>
 - 🤞 Preparing to crack **CEH**. <br/>
-- 💻 Worked on many different technologies.
+- 💻 Worked on many different technologies. <br/>
 - 🔭 My hobbies are doing **Bug Bounty**, **Solving CTF Challenges**, **Learning new things and finding fun facts about technology’s**.
-- 💼 Freelancer python developer.
-- 👯 I’m looking for members for our **CTF** team....
+- 💼 Freelancer python developer. <br/>
+- 👯 I’m looking for members for our **CTF** team.... <br/>
 - 📜 Created many useful Python Scripts for Students like File Downloader and Handler, Deep Search, Automation Scripts, etc. But I Upload It Letter, after clearing my **CEH** 😆.    
 
 <a href="https://github.com/Hrishikesh7665">
@@ -91,16 +91,18 @@ Here are some ideas to get you started:
 
 ### Interests
 
-👍 Ethical Hacking 
-👍 AI / ML
-👍 Software Development  
-👍 Game Development  
-👍 Android Development  
+👍 Ethical Hacking <br/>
+👍 AI / ML <br/>
+👍 Software Development <br/>
+👍 Game Development <br/>
+👍 Android Development <br/>
 👍 Mysterious Things in Technology
-
+<br/>
+<br/>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrishikesh7665&theme=merko)](https://github.com/Hrishikesh7665)
 
+<br/>
 
 <details>
 <summary>📈 My GitHub Stats</summary>
