@@ -1,4 +1,4 @@
-### Hi there <a href="https://github.com/Hrishikesh7665"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <!--
 **Hrishikesh7665/Hrishikesh7665** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 👍 Web Development -->
 <!-- <code><img height="30" src="https://img.icons8.com/color/48/000000/css3.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/javascript.png"/></code> -->
-## Hey, I'm Hrishikesh Patra <a href="https://github.com/Hrishikesh7665"> <img src="https://www.fg-a.com/flags/animated-india-flag-2b.gif" width="40px"> </a>
+## Hey, I'm Hrishikesh Patra <a href="#"> <img src="https://www.fg-a.com/flags/animated-india-flag-2b.gif" width="40px"> </a>
 
 - I'm currently in **Cyber Security** 😊. <br/>
 - 🤞 Preparing to crack **CEH**. <br/>
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking for members for our **CTF** team.... <br/>
 - 📜 Created many useful Python Scripts for Students like File Downloader and Handler, Deep Search, Automation Scripts, etc. But I Upload It Letter, after clearing my **CEH** 😆.    
 
-<a href="https://github.com/Hrishikesh7665">
+<a href="#">
 <img alt="GIF" src="https://github.com/Hrishikesh7665/Hrishikesh7665/blob/main/Code.gif" width="500"/>
 </a>
 
@@ -76,22 +76,24 @@ Here are some ideas to get you started:
 <br/>
 
 ### Languages and Tools
+<!-- <code><a href="#"><img height="30" src="https://img.icons8.com/color/48/000000/oracle-logo.png"/></a></code> -->
 
-
-<code><a href="https://github.com/Hrishikesh7665"><img height="30" src="https://img.icons8.com/color/48/000000/python.png"/></a></code>
-<code><a href="https://github.com/Hrishikesh7665"><img height="30" src="https://img.icons8.com/color/48/000000/c-programming.png"/></a></code>
-<code><a href="https://github.com/Hrishikesh7665"><img height="30" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></a></code>
-<code><a href="https://github.com/Hrishikesh7665"><img height="30" src="https://img.icons8.com/color/48/000000/kotlin.png"/></a></code>
-<code><a href="https://github.com/Hrishikesh7665"><img height="30" src="https://img.icons8.com/color/48/000000/oracle-logo.png"/></a></code>
-<code><a href="https://github.com/Hrishikesh7665"><img height="30" src="https://img.icons8.com/color/48/000000/html-5.png"/></a></code>
-<code><a href="https://github.com/Hrishikesh7665"><img height="30" src="https://img.icons8.com/fluent/48/000000/github.png"/></a></code>
-<code><a href="https://github.com/Hrishikesh7665"><img height="30" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"/></a></code>
-<code><a href="https://github.com/Hrishikesh7665"><img height="30" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a></code>
+<code><a href="https://www.python.org"><img height="30" src="https://img.icons8.com/color/48/000000/python.png"/></a></code>
+<code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height="30" src="https://img.icons8.com/color/48/000000/c-programming.png"/></a></code>
+<code><a href="https://www.java.com/en/"><img height="34.2" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></a></code>
+<code><a href="https://kotlinlang.org"><img height="30" src="https://img.icons8.com/color/48/000000/kotlin.png"/></a></code>
+<code><a href="https://www.oracle.com/in/database/technologies/appdev/sqldeveloper-landing.html"><img height="32" src="https://pdjmaster.files.wordpress.com/2020/04/oracle-database.png"/></a></code>
+<code><a href="https://en.wikipedia.org/wiki/HTML5"><img height="30" src="https://img.icons8.com/color/48/000000/html-5.png"/></a></code>
+<code><a href="https://www.docker.com"><img height="32" src="https://img.icons8.com/fluency/96/000000/docker.png"/></a></code>
+<code><a href="https://github.com"><img height="30" src="https://img.icons8.com/fluent/48/000000/github.png"/></a></code>
+<code><a href="https://developer.android.com/studio"><img height="30" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"/></a></code>
+<code><a href="https://code.visualstudio.com"><img height="30" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a></code>
 
 
 ### Interests
 
 👍 Ethical Hacking <br/>
+👍 Cyber Security <br/>
 👍 AI / ML <br/>
 👍 Software Development <br/>
 👍 Game Development <br/>
@@ -105,9 +107,9 @@ Here are some ideas to get you started:
 <br/>
 
 <details>
-<summary>📈 My GitHub Stats</summary>
+<summary>📈 <strong >My GitHub Stats </strong> </summary>
 
-<p align="center"> <a href="https://github.com/Hrishikesh7665"><img src="https://github-readme-stats.vercel.app/api?username=Hrishikesh7665&show_icons=true&theme=gotham" alt="Hrishikesh7665" /></a>
+<p align="center"> <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Hrishikesh7665&show_icons=true&theme=gotham" alt="Hrishikesh7665" /></a>
 </details>
 
 
@@ -133,7 +135,7 @@ Here are some ideas to get you started:
 
 <p>&nbsp</p>
 </br>
-<a href="https://github.com/Hrishikesh7665">
+<a href="#">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hrishikesh7665&label=PROFILE+VISITOR+COUNTER&style=flat&color=6495ED" alt="Hrishikesh7665" /> 
 </a>
   
