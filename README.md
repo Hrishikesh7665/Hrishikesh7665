@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://img.icons8.com/color/48/000000/javascript.png"/></code> -->
 ## Hey, I'm Hrishikesh Patra <a href="#"> <img src="https://www.fg-a.com/flags/animated-india-flag-2b.gif" width="40px"> </a>
 
+I'm a *self-taught* **Programmer**, **Tech Enthusiast 💻 😃**, **Cyber Security Student** passionate about learning and working with new tech. I love building scripts, exploits, hacking tools that serve a great deal of purpose. I'm a creative problem-solving enthusiast and a product guy.
+
+
+## ⚡️ Quick Facts
+
 - I'm currently in **Cyber Security** 😊. <br/>
 - 🤞 Preparing to crack **CEH**. <br/>
 - 💻 Worked on many different technologies. <br/>
@@ -28,9 +33,17 @@ Here are some ideas to get you started:
 - 💼 Freelancer python developer. <br/>
 - 👯 I’m looking for members for our **CTF** team.... <br/>
 - 📜 Created many useful Python Scripts for Students like File Downloader and Handler, Deep Search, Automation Scripts, etc. But I Upload It Letter, after clearing my **CEH** 😆.    
-
-<a href="#">
-<img alt="GIF" src="https://github.com/Hrishikesh7665/Hrishikesh7665/blob/main/Code.gif" width="500"/>
+- <a href="#"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="26px"/> </a> I enjoy working on
+  - Python
+  - Java
+  - SQL
+  - NoSQL
+  - Bash Scripting 
+  - Linux
+  - Docker
+  
+ <a href="#">
+<img alt="GIF" src="https://github.com/Hrishikesh7665/Hrishikesh7665/blob/main/Code.gif" width="450"/>
 </a>
 
 
@@ -52,6 +65,10 @@ Here are some ideas to get you started:
 
 
 ### Certificates
+
+<a href="https://www.hackerrank.com/certificates/e0d412763d1b">
+  <img alt="HackerRank Python" width="208px" src="https://github.com/Hrishikesh7665/My_Achievements_Staff/blob/main/HackerRankPython.png" />
+</a>
 
 <a href="https://github.com/Hrishikesh7665/My_Achievements_Staff/raw/main/Damncon2021CTFCertificate.pdf">
   <img alt="Damcon2021 CTF" width="220px" src="https://github.com/Hrishikesh7665/My_Achievements_Staff/blob/main/Damncon2021CTFCertificate.png" />
@@ -113,12 +130,18 @@ Here are some ideas to get you started:
 </details>
 
 
-### Connect With Me
+### Connect With Me <a href="#"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40px"/> </a>
+<b>I love to connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊
+<br/>
+<br/>
 <a href="https://www.linkedin.com/in/hrishikesh-patra-1aa9341b3/">
   <img align="left" alt="Hrishikesh's LinkdeIN" width="36.5px" src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png" />
 </a>
 <a href="https://www.facebook.com/Isjtijlfti.patra">
   <img align="left" alt="Hrishikesh's Facebook" width="36.5px" src="https://img.icons8.com/color/48/000000/facebook-new.png" />
+</a>
+<a href="https://twitter.com/Hrishikesh7229">
+  <img align="left" alt="Hrishikesh's Titter" width="36.5px" src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png" />
 </a>
 <a href="https://t.me/rishi_kesh/">
   <img align="left" alt="Hrishikesh's Telegram" width="36.5px" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" />
