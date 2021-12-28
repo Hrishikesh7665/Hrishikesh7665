@@ -66,6 +66,10 @@ I'm a *self-taught* **Programmer**, **Tech Enthusiast 💻 😃**, **Cyber Secur
 
 ### Certificates
 
+<a href="https://www.hackerrank.com/certificates/4b503eb141de">
+  <img alt="HackerRank Python" width="208px" src="https://github.com/Hrishikesh7665/My_Achievements_Staff/blob/main/HackerRankProblemSolving.png" />
+</a>
+
 <a href="https://www.hackerrank.com/certificates/e0d412763d1b">
   <img alt="HackerRank Python" width="208px" src="https://github.com/Hrishikesh7665/My_Achievements_Staff/blob/main/HackerRankPython.png" />
 </a>
