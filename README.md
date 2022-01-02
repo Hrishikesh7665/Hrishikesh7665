@@ -47,7 +47,7 @@ I'm a *self-taught* **Programmer**, **Tech Enthusiast 💻 😃**, **Cyber Secur
 </a>
 
 
-### Achievements
+### Achievements and Certificates
 
 <a href="https://www.hackerrank.com/Hrishikesh7665">
   <img align="left" alt="Hrishikesh's PYTHON Badge" width="140px" src="https://github.com/Hrishikesh7665/My_Achievements_Staff/blob/main/PythonGold.png" />
@@ -62,10 +62,10 @@ I'm a *self-taught* **Programmer**, **Tech Enthusiast 💻 😃**, **Cyber Secur
 <br/>
 <br/>
 <br/>
-
-
-### Certificates
-
+<br/>
+<details>
+<summary> <strong >Show My Certificates 📄</strong> </summary>
+<br/>
 <a href="https://www.hackerrank.com/certificates/4b503eb141de">
   <img alt="HackerRank Python" width="208px" src="https://github.com/Hrishikesh7665/My_Achievements_Staff/blob/main/HackerRankProblemSolving.png" />
 </a>
@@ -93,8 +93,7 @@ I'm a *self-taught* **Programmer**, **Tech Enthusiast 💻 😃**, **Cyber Secur
 <a href="https://github.com/Hrishikesh7665/My_Achievements_Staff/raw/main/Solo%20Learn%20HTML_certificate.jpg">
   <img alt="Solo Learn HTML" width="222.9px" src="https://github.com/Hrishikesh7665/My_Achievements_Staff/blob/main/Solo%20Learn%20HTML_certificate.jpg" />
 </a>
-
-<br/>
+</details>
 
 ### Languages and Tools
 <!-- <code><a href="#"><img height="30" src="https://img.icons8.com/color/48/000000/oracle-logo.png"/></a></code> -->
