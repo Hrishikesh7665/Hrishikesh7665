@@ -62,7 +62,6 @@ I'm a *self-taught* **Programmer**, **Tech Enthusiast 💻 😃**, **Cyber Secur
 <br/>
 <br/>
 <br/>
-<br/>
 <p>&nbsp</p>
 <details>
 <summary> <strong >Show My Certificates 📄</strong> </summary>
