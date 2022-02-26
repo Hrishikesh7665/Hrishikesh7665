@@ -66,6 +66,10 @@ I'm a *self-taught* **Programmer**, **Tech Enthusiast 💻 😃**, **Cyber Secur
 <details>
 <summary> <strong >Show My Certificates 📄</strong> </summary>
 <br/>
+<a href="#">
+  <img alt="Indian Army Hackathon" width="208px" src="https://github.com/Hrishikesh7665/My_Achievements_Staff/blob/main/Indian%20Army%20Hackathon.pdf" />
+</a>
+  
 <a href="https://www.hackerrank.com/certificates/4b503eb141de">
   <img alt="HackerRank Python" width="208px" src="https://github.com/Hrishikesh7665/My_Achievements_Staff/blob/main/HackerRankProblemSolving.png" />
 </a>
