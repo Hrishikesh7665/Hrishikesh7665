@@ -1,4 +1,4 @@
-### Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px" width="20px"></a>
 
 <!--
 **Hrishikesh7665/Hrishikesh7665** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 👍 Web Development -->
 <!-- <code><img height="30" src="https://img.icons8.com/color/48/000000/css3.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/javascript.png"/></code> -->
-## Hey, I'm Hrishikesh Patra <a href="#"> <img src="https://www.fg-a.com/flags/animated-india-flag-2b.gif" width="40px"> </a>
+## Hey, I'm Hrishikesh Patra <a href="#"> <img src="https://www.fg-a.com/flags/animated-india-flag-2b.gif" height="30px" width="30px"> </a>
 
-I'm a *self-taught* **Programmer**, **Tech Enthusiast 💻 😃**, **Cyber Security Student** passionate about learning and working with new tech. I love building scripts, exploits, hacking tools that serve a great deal of purpose. I'm a creative problem-solving enthusiast and a product guy.
+I'm a *self-taught* **Programmer**, **Tech Enthusiast 💻 😃**, **Cyber Security Practitioner** passionate about learning and working with new tech. I love building scripts, exploits, hacking tools that serve a great deal of purpose. I'm a creative problem-solving enthusiast and a product guy.
+
+Currently, I serve the Indian government as an Information Security Analyst, deputed at the **Centre for Development of Advanced Computing (CDAC)**.
 
 
 ## ⚡️ Quick Facts
@@ -33,7 +35,7 @@ I'm a *self-taught* **Programmer**, **Tech Enthusiast 💻 😃**, **Cyber Secur
 - 💼 Freelancer python developer. <br/>
 - 👯 I’m looking for members for our **CTF** team.... <br/>
 - 📜 Created many useful Python Scripts for Students like File Downloader and Handler, Deep Search, Automation Scripts, etc. But I Upload It Letter, after clearing my **CEH** 😆.    
-- <a href="#"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="26px"/> </a> I enjoy working on
+- <a href="#"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="32px" width="38px" /> </a> I enjoy working on
   - Python
   - Java
   - SQL
@@ -137,7 +139,7 @@ I'm a *self-taught* **Programmer**, **Tech Enthusiast 💻 😃**, **Cyber Secur
 </details>
 
 
-### Connect With Me <a href="#"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40px"/> </a>
+### Connect With Me <a href="#"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="35px" width="40px"/> </a>
 <b>I love to connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊
 <br/>
 <br/>
