@@ -51,7 +51,7 @@ Currently, I serve the Indian government as an Information Security Analyst, dep
 
 ### Badges, Achievements and Certificates
 
-<a href="https://www.hackerrank.com/Hrishikesh7665">
+<a href="#">
   <img align="left" alt="Hrishikesh's CEH Badge" width="135px" src="https://github.com/Hrishikesh7665/Hrishikesh7665/blob/achievements/CEH_BADGE.png" />
 </a>
 
