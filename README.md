@@ -23,18 +23,18 @@ Here are some ideas to get you started:
 
 I'm a *self-taught* **Programmer**, **Tech Enthusiast 💻 😃**, **Cyber Security Practitioner** passionate about learning and working with new tech. I love building scripts, exploits, hacking tools that serve a great deal of purpose. I'm a creative problem-solving enthusiast and a product guy.
 
-Currently, I serve the Indian government as an Information Security Analyst, deputed at the **Centre for Development of Advanced Computing (CDAC)**.
+Currently, I serve the Indian government as an Information Security Analyst, deputed at the **Centre for Development of Advanced Computing (CDAC)** under **Ministry of Electronics and Information Technology (MeitY)**.
 
 
 ## ⚡️ Quick Facts
 
 - I'm currently in **Cyber Security** 😊. <br/>
-- 🤞 Preparing to crack **CEH**. <br/>
+- 🤞 **CEH v11** Certified. <br/>
 - 💻 Worked on many different technologies. <br/>
 - 🔭 My hobbies are doing **Bug Bounty**, **Solving CTF Challenges**, **Learning new things and finding fun facts about technology’s**.
 - 💼 Freelancer python developer. <br/>
 - 👯 I’m looking for members for our **CTF** team.... <br/>
-- 📜 Created many useful Python Scripts for Students like File Downloader and Handler, Deep Search, Automation Scripts, etc. But I Upload It Letter, after clearing my **CEH** 😆.    
+- 📜 Created many useful Python Scripts for Students like File Downloader and Handler, Deep Search, Automation Scripts, etc.    
 - <a href="#"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="32px" width="38px" /> </a> I enjoy working on
   - Python
   - Java
@@ -45,18 +45,22 @@ Currently, I serve the Indian government as an Information Security Analyst, dep
   - Docker
   
  <a href="#">
-<img alt="GIF" src="https://github.com/Hrishikesh7665/Hrishikesh7665/blob/main/Code.gif" width="450"/>
+<img alt="GIF" src="https://github.com/Hrishikesh7665/Hrishikesh7665/blob/achievements/Code.gif" width="450"/>
 </a>
 
 
-### Achievements and Certificates
+### Badges, Achievements and Certificates
 
 <a href="https://www.hackerrank.com/Hrishikesh7665">
-  <img align="left" alt="Hrishikesh's PYTHON Badge" width="140px" src="https://github.com/Hrishikesh7665/My_Achievements_Staff/blob/main/PythonGold.png" />
+  <img align="left" alt="Hrishikesh's CEH Badge" width="135px" src="https://github.com/Hrishikesh7665/Hrishikesh7665/blob/achievements/CEH_BADGE.png" />
 </a>
 
 <a href="https://www.hackerrank.com/Hrishikesh7665">
-  <img align="left" alt="Hrishikesh's JAVA Badge" width="135.41px" src="https://github.com/Hrishikesh7665/My_Achievements_Staff/blob/main/JavaGold.png" />
+  <img align="left" alt="Hrishikesh's PYTHON Badge" width="138px" src="https://github.com/Hrishikesh7665/Hrishikesh7665/blob/achievements/PythonGold.png" />
+</a>
+
+<a href="https://www.hackerrank.com/Hrishikesh7665">
+  <img align="left" alt="Hrishikesh's JAVA Badge" width="135px" src="https://github.com/Hrishikesh7665/Hrishikesh7665/blob/achievements/JavaGold.png" />
 </a>
 <br/>
 <br/>
@@ -68,36 +72,41 @@ Currently, I serve the Indian government as an Information Security Analyst, dep
 <details>
 <summary> <strong >Show My Certificates 📄</strong> </summary>
 <br/>
-<a href="https://github.com/Hrishikesh7665/My_Achievements_Staff/blob/main/Indian_Army_Hackathon.pdf">
-  <img alt="Indian Army Hackathon" width="220px" src="https://github.com/Hrishikesh7665/My_Achievements_Staff/blob/main/IndianArmyhackathon.jpg" />
+
+<a href="https://github.com/Hrishikesh7665/Hrishikesh7665/blob/achievements/CEH_Certificate.png">
+  <img alt="Ceh Certificate" width="199px" src="https://github.com/Hrishikesh7665/Hrishikesh7665/blob/achievements/CEH_Certificate.png" />
+</a>
+
+<a href="https://github.com/Hrishikesh7665/Hrishikesh7665/blob/achievements/Indian_Army_Hackathon.pdf">
+  <img alt="Indian Army Hackathon" width="220px" src="https://github.com/Hrishikesh7665/Hrishikesh7665/blob/achievements/IndianArmyhackathon.jpg" />
 </a>
   
 <a href="https://www.hackerrank.com/certificates/4b503eb141de">
-  <img alt="HackerRank Python" width="208px" src="https://github.com/Hrishikesh7665/My_Achievements_Staff/blob/main/HackerRankProblemSolving.png" />
+  <img alt="HackerRank Python" width="208px" src="https://github.com/Hrishikesh7665/Hrishikesh7665/blob/achievements/HackerRankProblemSolving.png" />
 </a>
 
 <a href="https://www.hackerrank.com/certificates/e0d412763d1b">
-  <img alt="HackerRank Python" width="208px" src="https://github.com/Hrishikesh7665/My_Achievements_Staff/blob/main/HackerRankPython.png" />
+  <img alt="HackerRank Python" width="208px" src="https://github.com/Hrishikesh7665/Hrishikesh7665/blob/achievements/HackerRankPython.png" />
 </a>
 
 <a href="https://github.com/Hrishikesh7665/My_Achievements_Staff/raw/main/Damncon2021CTFCertificate.pdf">
-  <img alt="Damcon2021 CTF" width="220px" src="https://github.com/Hrishikesh7665/My_Achievements_Staff/blob/main/Damncon2021CTFCertificate.png" />
+  <img alt="Damcon2021 CTF" width="220px" src="https://github.com/Hrishikesh7665/Hrishikesh7665/blob/achievements/Damncon2021CTFCertificate.png" />
 </a>
 
 <a href="https://github.com/Hrishikesh7665/My_Achievements_Staff/raw/main/ISOEH_GroundZero2021.pdf">
-  <img alt="ISOEH GroundZero2021 CTF" width="220px" src="https://github.com/Hrishikesh7665/My_Achievements_Staff/blob/main/ISOEH_GroundZero2021.jpg" />
+  <img alt="ISOEH GroundZero2021 CTF" width="220px" src="https://github.com/Hrishikesh7665/Hrishikesh7665/blob/achievements/ISOEH_GroundZero2021.jpg" />
 </a>
 
 <a href="https://github.com/Hrishikesh7665/My_Achievements_Staff/raw/main/Solo%20Learn%20Java_certificate.jpg">
-  <img alt="Solo Learn Java" width="222.9px" src="https://github.com/Hrishikesh7665/My_Achievements_Staff/blob/main/Solo%20Learn%20Java_certificate.jpg" />
+  <img alt="Solo Learn Java" width="222.9px" src="https://github.com/Hrishikesh7665/Hrishikesh7665/blob/achievements/Solo%20Learn%20Java_certificate.jpg" />
 </a>
 
 <a href="https://github.com/Hrishikesh7665/My_Achievements_Staff/raw/main/Solo%20Learn%20Python_certificate.jpg">
-  <img alt="Solo Learn Python" width="222.9px" src="https://github.com/Hrishikesh7665/My_Achievements_Staff/blob/main/Solo%20Learn%20Python_certificate.jpg" />
+  <img alt="Solo Learn Python" width="222.9px" src="https://github.com/Hrishikesh7665/Hrishikesh7665/blob/achievements/Solo%20Learn%20Python_certificate.jpg" />
 </a>
 
 <a href="https://github.com/Hrishikesh7665/My_Achievements_Staff/raw/main/Solo%20Learn%20HTML_certificate.jpg">
-  <img alt="Solo Learn HTML" width="222.9px" src="https://github.com/Hrishikesh7665/My_Achievements_Staff/blob/main/Solo%20Learn%20HTML_certificate.jpg" />
+  <img alt="Solo Learn HTML" width="222.9px" src="https://github.com/Hrishikesh7665/Hrishikesh7665/blob/achievements/Solo%20Learn%20HTML_certificate.jpg" />
 </a>
 </details>
 
