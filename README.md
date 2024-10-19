@@ -88,9 +88,9 @@
 		<a><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
 		<a><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 		<a><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-		<a><img alt="Powershell" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?logo=powershell&logoColor=white"></a>
+		<a><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?logo=powershell&logoColor=white"></a>
 		<a><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-		<a><img alt="Restructured Text" src="https://img.shields.io/badge/Restructured Text-3a4148.svg?logo=readthedocs&logoColor=white"></a>
+		<a><img alt="ReStructuredText" src="https://img.shields.io/badge/ReStructured%20Text-3a4148.svg?logo=readthedocs&logoColor=white"></a>
 		<a><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 		<a><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
 	</p>
@@ -99,60 +99,61 @@
 		<a><img alt="Beff Framework" src="https://custom-icon-badges.demolab.com/badge/Beff%20Framework-white.svg?logo=beff_framework&logoColor=white"></a>
 		<a><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 		<a><img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white"></a>
-		<a><img alt="MobSF" src="https://img.shields.io/badge/Metasploit-blue?logo=metasploit&logoColor=white"></a>
+		<a><img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-blue?logo=metasploit&logoColor=white"></a>
 		<a><img alt="MobSF" src="https://img.shields.io/badge/MobSF-grey"></a>
-		<a><img alt="MobSF" src="https://img.shields.io/badge/OSINT-25a8ff"></a>
-		<a><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+		<a><img alt="OSINT" src="https://img.shields.io/badge/OSINT-25a8ff"></a>
+		<a><img alt="WordPress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
 	</p>
-  	<h3 align="center">Databases and Cloud Hosting</h3>
+  	<h3 align="center">Databases and Hosting</h3>
 	<p align="center">
+		<a><img alt="Apache" src="https://img.shields.io/badge/Apache-D22128.svg?logo=Apache&logoColor=white"></a>
 		<a><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
 		<a><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
 		<a><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
-		<a><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+		<a><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
 		<a><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+		<a><img alt="XAMPP" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"></a>
 	</p>
 	<h3 align="center">💻 Software and Tools</h3>
 	<p align="center">
 	<a><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-	<a><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-	<a><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
-	<a><img alt="Burp Suite" src="https://custom-icon-badges.demolab.com/badge/Burpe%20Suite-white.svg?logo=burp&logoColor=white"></a>
-	<a><img alt="Acunetix" src="https://img.shields.io/badge/Acunetix-4B0082?style=flat-square&logo=acorn"></a>
-	<a><img alt="Nmap" src="https://img.shields.io/badge/Nmap-00BFFF?style=flat-square&logo=nmap"></a>
-	<a><img alt="Nessus" src="https://img.shields.io/badge/Nessus-FF4500?style=flat-square&logo=bug"></a>
-	<a><img alt="Nikto" src="https://img.shields.io/badge/Nikto-32CD32?style=flat-square&logo=shield"></a>
-	<a><img alt="Drozer" src="https://img.shields.io/badge/Drozer-FFD700?style=flat-square&logo=white"></a>
-	<a><img alt="Frida" src="https://img.shields.io/badge/Frida-FF1493?style=flat-square&logo=frida"></a>
-	<a><img alt="APK Tool" src="https://img.shields.io/badge/Apk%20Tool-FF69B4?style=flat-square&logo=android"></a>
-	<a><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white"></a>
-	<a><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-	<a><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-	<a><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
-	<a><img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white"></a>
-	<a><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black"></a>
-	<a><img alt="NeoVim" src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff"></a>
-	<a><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
-	<a><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-	<a><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff"></a>
-	<a><img alt="Python IDLE" src="https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff"></a>
-	<a><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-	<a><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important"></a>
-	<a><img alt="Vim" src="https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white"></a>
-	<a><img alt="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"></a>
+		<a><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+		<a><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
+		<a><img alt="Burp Suite" src="https://custom-icon-badges.demolab.com/badge/Burpe%20Suite-white.svg?logo=burp&logoColor=white"></a>
+		<a><img alt="Acunetix" src="https://img.shields.io/badge/Acunetix-4B0082?style=flat-square&logo=acorn"></a>
+		<a><img alt="Nmap" src="https://img.shields.io/badge/Nmap-00BFFF?style=flat-square&logo=nmap"></a>
+		<a><img alt="Nessus" src="https://img.shields.io/badge/Nessus-FF4500?style=flat-square&logo=bug"></a>
+		<a><img alt="Nikto" src="https://img.shields.io/badge/Nikto-32CD32?style=flat-square&logo=shield"></a>
+		<a><img alt="Drozer" src="https://img.shields.io/badge/Drozer-FFD700?style=flat-square&logo=white"></a>
+		<a><img alt="Frida" src="https://img.shields.io/badge/Frida-FF1493?style=flat-square&logo=frida"></a>
+		<a><img alt="APK Tool" src="https://img.shields.io/badge/Apk%20Tool-FF69B4?style=flat-square&logo=android"></a>
+		<a><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white"></a>
+		<a><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+		<a><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
+		<a><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
+		<a><img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white"></a>
+		<a><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black"></a>
+		<a><img alt="NeoVim" src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff"></a>
+		<a><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
+		<a><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+		<a><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff"></a>
+		<a><img alt="Python IDLE" src="https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff"></a>
+		<a><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+		<a><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important"></a>
+		<a><img alt="Vim" src="https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white"></a>
+		<a><img alt="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"></a>
 	</p>
 	<h3 align="center">Operating Systems</h3>
 	<p align="center">
-	<a><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
-	<a><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff"></a>
-	<a><img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff"></a>
-	<a><img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff"></a>
-	<a><img alt="Manjaro" src="https://img.shields.io/badge/Manjaro-35BF5C?logo=manjaro&logoColor=fff"></a>
-	<a><img alt="Rocky Linux" src="https://img.shields.io/badge/Rocky%20Linux-10B981?logo=rockylinux&logoColor=fff"></a>
-	<a><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
-	<a><img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white"></a>
-	<a><img alt="Pop!_OS" src="https://img.shields.io/badge/Pop!__OS-48B9C7?logo=popos&logoColor=fff"></a>
-	<a><img alt="Pop!_OS" src="https://img.shields.io/badge/Pop!__OS-48B9C7?logo=popos&logoColor=fff"></a>
+		<a><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
+		<a><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff"></a>
+		<a><img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff"></a>
+		<a><img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff"></a>
+		<a><img alt="Manjaro" src="https://img.shields.io/badge/Manjaro-35BF5C?logo=manjaro&logoColor=fff"></a>
+		<a><img alt="Rocky Linux" src="https://img.shields.io/badge/Rocky%20Linux-10B981?logo=rockylinux&logoColor=fff"></a>
+		<a><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
+		<a><img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white"></a>
+		<a><img alt="Pop!_OS" src="https://img.shields.io/badge/Pop!__OS-48B9C7?logo=popos&logoColor=fff"></a>
 	</p>
 </details>
 <details> 
