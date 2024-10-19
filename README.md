@@ -1,32 +1,45 @@
-### Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px" width="20px"></a>
+<img align="right" src="https://komarev.com/ghpvc/?username=Hrishikesh7665&label=visitors&style=flat&color=6495ED">
 
-<!--
-**Hrishikesh7665/Hrishikesh7665** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Hrishikesh+Patra;Great+to+meet+you!&center=true&size=28">
+  </a>
+</h1>
 
-Here are some ideas to get you started:
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/hrishikesh7665/" title="LinkedIn Profile"><img width="22" src="../src/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/Hrishikesh7665" title="HackerRank Profile"><img width="22" src="../src/images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://tryhackme.com/p/HrishikeshPatra" title="Tryhackme Profile"><img width="22" src="../src/images/thm.png"> Tryhackme</a></code>
+  <code><a href="mailto:hrishikesh.pgh.patra@gmail.com" title="Email Me"><img width="22" src="../src/images/email.png"> Email</a></code>
+</h5>
+<h5 align="center">
+  <code><a href="https://x.com/Hrishikesh7229" title="X Handle"><img width="22" src="../src/images/twitter.png"> X</a></code>
+  <code><a href="https://www.facebook.com/Isjtijlfti.patra" title="Facebook Profile"><img width="22" src="../src/images/facebook.png"> Facebook</a></code>
+  <code><a href="https://t.me/rishi_kesh/" title="Telegram Profile"><img width="22" src="../src/images/telegram.png"> Telegram</a></code>
+</h5>
+<br>
+<p align="center">
+  Hi, I'm Hrishikesh Patra, a self-taught programmer and cybersecurity enthusiast from India, passionate about securing systems and exploring new technologies.
+  <br>
+  <br>
+  💼 Information Security Analyst at the Centre for Development of Advanced Computing (C-DAC), on the payroll of Manpower Group India Pvt. Ltd. Specializing in vulnerability assessment and penetration testing (VAPT) for web applications, Android apps, and APIs. Committed to identifying security risks and enhancing cybersecurity measures.
+  <br>
+  <br>
+  🎓 I hold a Master of Computer Applications (MCA) from Jain (Deemed-to-be University).
+  <br>
+  🎓 I completed a diploma course in Cyber Security from the Indian School of Ethical Hacking (ISOEH).
+  <br>
+  🎓 I graduated from Chandernagore Government College, University of Burdwan.
+  <br>
+  <br>
+  💻 Enthusiastic about coding, networking, and cybersecurity, with a passion for learning and developing scripts, exploits, and hacking tools.
+  <br>
+  🌐 To learn more about my projects and experience, feel free to visit my website: <a href="https://hrishikesh7665.web.app" title="Portfolio">hrishikesh7665.web.app</a>
+  <br>
+  📫 Connect with me: <a href="mailto:hrishikesh.pgh.patra@gmail.com">hrishikesh.pgh.patra@gmail.com</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- 👍 AI / ML -->
-<!-- 👍 Data Analysis
-👍 Web Development -->
-<!-- <code><img height="30" src="https://img.icons8.com/color/48/000000/css3.png"/></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/javascript.png"/></code> -->
-## Hey, I'm Hrishikesh Patra <a href="#"> <img src="https://www.fg-a.com/flags/animated-india-flag-2b.gif" height="30px" width="30px"> </a>
-
-I'm a *self-taught* **Programmer**, **Tech Enthusiast 💻 😃**, **Cyber Security Practitioner** passionate about learning and working with new tech. I love building scripts, exploits, hacking tools that serve a great deal of purpose. I'm a creative problem-solving enthusiast and a product guy.
-
-Currently, I serve the Indian government as an Information Security Analyst, deputed at the **Centre for Development of Advanced Computing (CDAC)** under **Ministry of Electronics and Information Technology (MeitY)**.
-
-
-## ⚡️ Quick Facts
+<!-- ## ⚡️ Quick Facts
 
 - I'm currently in **Cyber Security** 😊. <br/>
 - 🤞 **CEH v11** Certified. <br/>
@@ -34,20 +47,19 @@ Currently, I serve the Indian government as an Information Security Analyst, dep
 - 🔭 My hobbies are doing **Bug Bounty**, **Solving CTF Challenges**, **Learning new things and finding fun facts about technology’s**.
 - 💼 Freelancer python developer. <br/>
 - 👯 I’m looking for members for our **CTF** team.... <br/>
-- 📜 Created many useful Python Scripts for Students like File Downloader and Handler, Deep Search, Automation Scripts, etc.    
+- 📜 Created many useful Python Scripts for Students like File Downloader and Handler, Deep Search, Automation Scripts, etc.
 - <a href="#"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="32px" width="38px" /> </a> I enjoy working on
   - Python
   - Java
   - SQL
   - NoSQL
-  - Bash Scripting 
+  - Bash Scripting
   - Linux
   - Docker
   
  <a href="#">
 <img alt="GIF" src="https://github.com/Hrishikesh7665/Hrishikesh7665/blob/achievements/Code.gif" width="450"/>
 </a>
-
 
 ### Badges, Achievements and Certificates
 
@@ -110,10 +122,10 @@ Currently, I serve the Indian government as an Information Security Analyst, dep
 </a>
 </details>
 
-### Languages and Tools
+### Languages and Tools -->
 <!-- <code><a href="#"><img height="30" src="https://img.icons8.com/color/48/000000/oracle-logo.png"/></a></code> -->
 
-<code><a href="https://www.python.org"><img height="30" src="https://img.icons8.com/color/48/000000/python.png"/></a></code>
+<!-- <code><a href="https://www.python.org"><img height="30" src="https://img.icons8.com/color/48/000000/python.png"/></a></code>
 <code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height="30" src="https://img.icons8.com/color/48/000000/c-programming.png"/></a></code>
 <code><a href="https://www.java.com/en/"><img height="34.2" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></a></code>
 <code><a href="https://kotlinlang.org"><img height="30" src="https://img.icons8.com/color/48/000000/kotlin.png"/></a></code>
@@ -123,7 +135,6 @@ Currently, I serve the Indian government as an Information Security Analyst, dep
 <code><a href="https://github.com"><img height="30" src="https://img.icons8.com/fluent/48/000000/github.png"/></a></code>
 <code><a href="https://developer.android.com/studio"><img height="30" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"/></a></code>
 <code><a href="https://code.visualstudio.com"><img height="30" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a></code>
-
 
 ### Interests
 
@@ -147,8 +158,8 @@ Currently, I serve the Indian government as an Information Security Analyst, dep
 <p align="center"> <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Hrishikesh7665&show_icons=true&theme=gotham" alt="Hrishikesh7665" /></a>
 </details>
 
-
 ### Connect With Me <a href="#"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="35px" width="40px"/> </a>
+
 <b>I love to connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊
 <br/>
 <br/>
@@ -177,7 +188,7 @@ Currently, I serve the Indian government as an Information Security Analyst, dep
 <p>&nbsp</p>
 </br>
 <a href="#">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hrishikesh7665&label=PROFILE+VISITOR+COUNTER&style=flat&color=6495ED" alt="Hrishikesh7665" /> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hrishikesh7665&label=PROFILE+VISITOR+COUNTER&style=flat&color=6495ED" alt="Hrishikesh7665" />
 </a>
   
-🙏 _**• Jai Hind •**_ 🙏
+🙏 ***• Jai Hind •*** 🙏 -->
