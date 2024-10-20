@@ -121,13 +121,13 @@
 		<a><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
 		<a><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
 		<a><img alt="Burp Suite" src="https://custom-icon-badges.demolab.com/badge/Burpe%20Suite-white.svg?logo=burp&logoColor=white"></a>
-		<a><img alt="Acunetix" src="https://img.shields.io/badge/Acunetix-4B0082?style=flat-square&logo=acorn"></a>
-		<a><img alt="Nmap" src="https://img.shields.io/badge/Nmap-00BFFF?style=flat-square&logo=nmap"></a>
-		<a><img alt="Nessus" src="https://img.shields.io/badge/Nessus-FF4500?style=flat-square&logo=bug"></a>
-		<a><img alt="Nikto" src="https://img.shields.io/badge/Nikto-32CD32?style=flat-square&logo=shield"></a>
-		<a><img alt="Drozer" src="https://img.shields.io/badge/Drozer-FFD700?style=flat-square&logo=white"></a>
-		<a><img alt="Frida" src="https://img.shields.io/badge/Frida-FF1493?style=flat-square&logo=frida"></a>
-		<a><img alt="APK Tool" src="https://img.shields.io/badge/Apk%20Tool-FF69B4?style=flat-square&logo=android"></a>
+		<a><img alt="Acunetix" src="https://img.shields.io/badge/Acunetix-4B0082?logo=acorn"></a>
+		<a><img alt="Nmap" src="https://img.shields.io/badge/Nmap-00BFFF?logo=nmap"></a>
+		<a><img alt="Nessus" src="https://img.shields.io/badge/Nessus-FF4500?logo=bug"></a>
+		<a><img alt="Nikto" src="https://img.shields.io/badge/Nikto-32CD32?logo=shield"></a>
+		<a><img alt="Drozer" src="https://img.shields.io/badge/Drozer-FFD700?logo=white"></a>
+		<a><img alt="Frida" src="https://img.shields.io/badge/Frida-FF1493?logo=frida"></a>
+		<a><img alt="APK Tool" src="https://img.shields.io/badge/Apk%20Tool-FF69B4?logo=android"></a>
 		<a><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white"></a>
 		<a><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 		<a><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
