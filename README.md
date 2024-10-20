@@ -113,7 +113,7 @@
 		<a><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
 		<a><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
 		<a><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
-		<a><img alt="XAMPP" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"></a>
+		<a><img alt="XAMPP" src="https://img.shields.io/badge/Xampp-F37623?logo=xampp&logoColor=white"></a>
 	</p>
 	<h3 align="center">Software and Tools</h3>
 	<p align="center">
