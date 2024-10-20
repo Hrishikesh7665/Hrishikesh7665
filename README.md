@@ -1,7 +1,7 @@
 <div><img align="right" src="https://komarev.com/ghpvc/?username=Hrishikesh7665&label=visitors&style=flat&color=6495ED">
 <span align="left"><strong>Proudly Indian</strong> <img src="https://www.fg-a.com/flags/animated-india-flag-2b.gif" height="18px" width="18px">🙏</span></div>
 <h1 align="center">
-	<a href="https://git.io/typing-svg">
+	<a>
 	<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Hrishikesh+Patra;Great+to+meet+you!&center=true&size=28">
 	</a>
 </h1>
@@ -39,7 +39,7 @@
 </p>
 
 <details open> 
-	<summary><h2>My Top Open Source Projects</h2></summary>
+	<summary><h2>Showcase of My Open Source Work</h2></summary>
 	<p align="center">
 		<a href="https://github.com/Hrishikesh7665/Android-Pentesting-Checklist"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hrishikesh7665&repo=Android-Pentesting-Checklist&theme=react&bg_color=1F222E&title_color=6495ED&hide_border=true&icon_color=F8D866&show_icons=true" alt="Android-Pentesting-Checklist"></a>
 		<a href="https://github.com/Hrishikesh7665/Follina_Exploiter_CLI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hrishikesh7665&repo=Follina_Exploiter_CLI&theme=react&bg_color=1F222E&title_color=6495ED&hide_border=true&icon_color=F8D866&show_icons=false" alt="Follina_Exploiter_CLI"></a>
@@ -53,7 +53,7 @@
 </details>
 
 <details open> 
-	<summary><h2>Top Projects I've Contributed To</h2></summary>
+	<summary><h2>Showcase of My Contributions</h2></summary>
 	<p align="center">
 		<a href="https://github.com/mandiant/flare-vm"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mandiant&repo=flare-vm&theme=react&bg_color=1F222E&title_color=6495ED&hide_border=true&icon_color=F8D866&show_icons=false" alt="mandiant/flare-vm"></a>
 		<a href="https://github.com/ISS-CDACK/CCTF"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ISS-CDACK&repo=CCTF&theme=react&bg_color=1F222E&title_color=6495ED&hide_border=true&icon_color=F8D866&show_icons=false" alt="ISS-CDACK/CCTF"></a>
@@ -61,7 +61,7 @@
 </details>
 
 <details>
-	<summary><h2>My Certificates</h2></summary>
+	<summary><h2>My Learning Milestones</h2></summary>
 	<p align="center">
 		<a href="../src/achievements/CEH_Certificate.png"><img alt="Ceh Certificate" width="199px" src="../src/achievements/CEH_Certificate.png" /></a>
 		<a href="../src/achievements/Indian_Army_Hackathon.pdf"><img alt="Indian Army Hackathon" width="220px" src="../src/achievements/IndianArmyhackathon.jpg" /></a>
@@ -76,7 +76,7 @@
 </details>
 
 <details> 
-	<summary><h2>My Favorite Toys</h2></summary>
+	<summary><h2>My Technology Arsenal</h2></summary>
 	<h3 align="center">Programming and Markup Languages</h3>
  	<p align="center">
 		<a><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -98,6 +98,7 @@
 	<p align="center">
 		<a><img alt="Beff Framework" src="https://custom-icon-badges.demolab.com/badge/Beff%20Framework-white.svg?logo=beff_framework&logoColor=white"></a>
 		<a><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+		<a><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"></a>
 		<a><img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white"></a>
 		<a><img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-blue?logo=metasploit&logoColor=white"></a>
 		<a><img alt="MobSF" src="https://img.shields.io/badge/MobSF-grey"></a>
@@ -114,7 +115,7 @@
 		<a><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
 		<a><img alt="XAMPP" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"></a>
 	</p>
-	<h3 align="center">💻 Software and Tools</h3>
+	<h3 align="center">Software and Tools</h3>
 	<p align="center">
 	<a><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
 		<a><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
@@ -157,7 +158,7 @@
 	</p>
 </details>
 <details> 
-	<summary><h2>Stats and Activity</h2></summary>
+	<summary><h2>My Activity Dashboard</h2></summary>
 	<h3 align="center">Streak Stats</h3>
 	<p align="center">
 		<a><img title= Get streak stats for your profile at git.io/streak-stats" alt="Hrishikesh7665's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=Hrishikesh7665&theme=react&hide_border=true"/></a>
@@ -171,7 +172,7 @@
 </details>
 
 <details> 
-	<summary><h2>Badges</h2></summary>
+	<summary><h2>My Earned Badges</h2></summary>
 	<p align="center">
 		<a><img align="center" alt="CEH Badge" width="85px" src="../src/achievements/CEH_BADGE.png" /></a>
 		<a><img align="center" alt="API Badge" width="85px" src="../src/achievements/api2.png" /></a>
